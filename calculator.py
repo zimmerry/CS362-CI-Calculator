@@ -2,6 +2,7 @@
 Calculator app using CircleCI
 """
 
+
 def add(a, b):
     return (a + b)
 

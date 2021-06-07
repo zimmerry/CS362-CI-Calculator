@@ -14,3 +14,6 @@ class TestCalculatorApp:
 
     def test_mul(self):
         assert calculator.mul(2, 5) == 10
+
+    def test_div(self):
+        assert calculator.div(15, 3) == 5
